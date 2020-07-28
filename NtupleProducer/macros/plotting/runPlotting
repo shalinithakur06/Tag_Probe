@@ -1,0 +1,3 @@
+#!/bin/bash
+
+root -l -b -q 'plotEfficiency("AllRootFiles.txt","histNames_Mu.txt")'  # for Electron histNames_Ele.txt

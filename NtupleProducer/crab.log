@@ -1,0 +1,18 @@
+DEBUG 2020-04-30 16:36:56.369 UTC: 	 Running on: Linux lxplus713.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-30 16:36:56.385 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-30 16:36:56.385 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-30 16:36:56.386 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-30 16:36:56.405 UTC: 	 Error: crab_ElectronNtuple_2017_TagProbe_29April20/crab_Run2017B is not a valid CRAB project directory.
+ERROR 2020-04-30 16:36:56.405 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 595, in validateOptions
+    raise ConfigurationException(msg)
+ConfigurationException: [91mError[0m: crab_ElectronNtuple_2017_TagProbe_29April20/crab_Run2017B is not a valid CRAB project directory.

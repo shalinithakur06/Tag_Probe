@@ -1,0 +1,887 @@
+DEBUG 2020-04-01 08:56:08.054 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 08:56:08.070 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 08:56:08.070 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 08:56:08.080 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 08:56:08.089 UTC: 	 Checking credentials
+DEBUG 2020-04-01 08:56:08.089 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:08.089 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 08:56:08.693 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43126
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:09.301 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43125
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:09.301 UTC: 	 Proxy lifetime 43126 secs is different from voms extension lifetime 43125 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:09.302 UTC: 	 Proxy valid for 11:58:45 hours
+DEBUG 2020-04-01 08:56:09.302 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 08:56:09.324 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 08:56:09.337 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 08:56:09.337 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 08:56:09.344 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 08:56:09.351 UTC: 	 Checking credentials
+DEBUG 2020-04-01 08:56:09.351 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:09.351 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 08:56:09.957 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43125
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:10.562 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43124
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:10.562 UTC: 	 Proxy lifetime 43125 secs is different from voms extension lifetime 43124 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:10.562 UTC: 	 Proxy valid for 11:58:44 hours
+DEBUG 2020-04-01 08:56:10.563 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 08:56:10.581 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 08:56:10.596 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 08:56:10.597 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 08:56:10.605 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 08:56:10.612 UTC: 	 Checking credentials
+DEBUG 2020-04-01 08:56:10.613 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:10.613 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 08:56:11.217 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43123
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:11.822 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43123
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:11.823 UTC: 	 Proxy valid for 11:58:43 hours
+DEBUG 2020-04-01 08:56:11.824 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 08:56:11.844 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 08:56:11.859 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 08:56:11.860 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 08:56:11.867 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 08:56:11.875 UTC: 	 Checking credentials
+DEBUG 2020-04-01 08:56:11.876 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:11.876 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 08:56:12.480 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43122
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:13.088 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43121
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:13.088 UTC: 	 Proxy lifetime 43122 secs is different from voms extension lifetime 43121 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:13.088 UTC: 	 Proxy valid for 11:58:41 hours
+DEBUG 2020-04-01 08:56:13.089 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 08:56:13.107 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 08:56:13.121 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 08:56:13.121 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 08:56:13.128 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 08:56:13.136 UTC: 	 Checking credentials
+DEBUG 2020-04-01 08:56:13.136 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:13.136 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 08:56:13.741 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43121
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:14.345 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43120
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 08:56:14.346 UTC: 	 Proxy lifetime 43121 secs is different from voms extension lifetime 43120 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 08:56:14.346 UTC: 	 Proxy valid for 11:58:40 hours
+DEBUG 2020-04-01 08:56:14.346 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 09:19:12.964 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 09:19:12.981 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 09:19:12.982 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 09:19:12.996 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 09:19:13.009 UTC: 	 Checking credentials
+DEBUG 2020-04-01 09:19:13.009 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:13.009 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 09:19:13.615 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43000
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:14.220 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 42998
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:14.220 UTC: 	 Proxy lifetime 43000 secs is different from voms extension lifetime 42998 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:14.220 UTC: 	 Proxy valid for 11:56:38 hours
+DEBUG 2020-04-01 09:19:14.221 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 09:19:14.243 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 09:19:14.256 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 09:19:14.257 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 09:19:14.263 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 09:19:14.270 UTC: 	 Checking credentials
+DEBUG 2020-04-01 09:19:14.270 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:14.270 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 09:19:14.877 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 42999
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:15.482 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 42997
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:15.482 UTC: 	 Proxy lifetime 42999 secs is different from voms extension lifetime 42997 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:15.482 UTC: 	 Proxy valid for 11:56:37 hours
+DEBUG 2020-04-01 09:19:15.483 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 09:19:15.502 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 09:19:15.516 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 09:19:15.516 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 09:19:15.523 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 09:19:15.530 UTC: 	 Checking credentials
+DEBUG 2020-04-01 09:19:15.530 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:15.530 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 09:19:16.134 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 42997
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:16.739 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 42996
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:16.739 UTC: 	 Proxy lifetime 42997 secs is different from voms extension lifetime 42996 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:16.739 UTC: 	 Proxy valid for 11:56:36 hours
+DEBUG 2020-04-01 09:19:16.740 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 09:19:16.760 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 09:19:16.773 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 09:19:16.774 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 09:19:16.780 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 09:19:16.786 UTC: 	 Checking credentials
+DEBUG 2020-04-01 09:19:16.787 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:16.787 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 09:19:17.391 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 42996
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:17.998 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 42995
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:17.998 UTC: 	 Proxy lifetime 42996 secs is different from voms extension lifetime 42995 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:17.998 UTC: 	 Proxy valid for 11:56:35 hours
+DEBUG 2020-04-01 09:19:17.999 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-01 09:19:18.018 UTC: 	 Running on: Linux lxplus743.cern.ch 3.10.0-1062.12.1.el7.x86_64 #1 SMP Tue Feb 4 23:02:59 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-01 09:19:18.031 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-01 09:19:18.031 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-01 09:19:18.038 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-01 09:19:18.044 UTC: 	 Checking credentials
+DEBUG 2020-04-01 09:19:18.045 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:18.045 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-01 09:19:18.649 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 42995
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:19.255 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 42993
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-01 09:19:19.255 UTC: 	 Proxy lifetime 42995 secs is different from voms extension lifetime 42993 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-01 09:19:19.255 UTC: 	 Proxy valid for 11:56:33 hours
+DEBUG 2020-04-01 09:19:19.256 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-02 17:20:41.688 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:20:41.705 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:20:41.706 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-02 17:20:41.720 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-02 17:20:41.816 UTC: 	 Checking credentials
+DEBUG 2020-04-02 17:20:41.817 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:41.818 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-02 17:20:42.729 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43107
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:43.650 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43105
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:43.650 UTC: 	 Proxy lifetime 43107 secs is different from voms extension lifetime 43105 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:43.650 UTC: 	 Proxy valid for 11:58:25 hours
+DEBUG 2020-04-02 17:20:43.651 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-02 17:20:43.862 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:20:43.914 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:20:43.915 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-02 17:20:43.926 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-02 17:20:43.935 UTC: 	 Checking credentials
+DEBUG 2020-04-02 17:20:43.936 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:43.936 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-02 17:20:44.752 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43105
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:45.461 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43103
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:45.461 UTC: 	 Proxy lifetime 43105 secs is different from voms extension lifetime 43103 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:45.461 UTC: 	 Proxy valid for 11:58:23 hours
+DEBUG 2020-04-02 17:20:45.462 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-02 17:20:45.524 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:20:45.541 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:20:45.542 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-02 17:20:45.550 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-02 17:20:45.558 UTC: 	 Checking credentials
+DEBUG 2020-04-02 17:20:45.558 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:45.558 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-02 17:20:46.266 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43103
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:46.974 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43102
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:46.974 UTC: 	 Proxy lifetime 43103 secs is different from voms extension lifetime 43102 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:46.974 UTC: 	 Proxy valid for 11:58:22 hours
+DEBUG 2020-04-02 17:20:46.975 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-02 17:20:47.027 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:20:47.044 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:20:47.045 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-02 17:20:47.052 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-02 17:20:47.060 UTC: 	 Checking credentials
+DEBUG 2020-04-02 17:20:47.060 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:47.060 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-02 17:20:47.873 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43102
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:48.685 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43100
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:48.686 UTC: 	 Proxy lifetime 43102 secs is different from voms extension lifetime 43100 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:48.686 UTC: 	 Proxy valid for 11:58:20 hours
+DEBUG 2020-04-02 17:20:48.686 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-02 17:20:48.754 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:20:48.771 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:20:48.772 UTC: 	 Executing command: 'submit'
+DEBUG 2020-04-02 17:20:48.781 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-04-02 17:20:48.793 UTC: 	 Checking credentials
+DEBUG 2020-04-02 17:20:48.793 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:48.793 UTC: 	 Getting proxy life time left
+DEBUG 2020-04-02 17:20:49.607 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43100
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:50.318 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43098
+
+ error: 
+ retcode : 0
+DEBUG 2020-04-02 17:20:50.318 UTC: 	 Proxy lifetime 43100 secs is different from voms extension lifetime 43098 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-04-02 17:20:50.318 UTC: 	 Proxy valid for 11:58:18 hours
+DEBUG 2020-04-02 17:20:50.319 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-04-02 17:25:05.510 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:25:05.527 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:25:05.528 UTC: 	 Executing command: 'kill'
+DEBUG 2020-04-02 17:25:05.528 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-02 17:25:05.529 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe
+ERROR 2020-04-02 17:25:05.529 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe
+DEBUG 2020-04-02 17:25:31.369 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:25:31.384 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:25:31.385 UTC: 	 Executing command: 'kill'
+DEBUG 2020-04-02 17:25:31.385 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-02 17:25:31.386 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe
+ERROR 2020-04-02 17:25:31.386 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe
+DEBUG 2020-04-02 17:32:47.881 UTC: 	 Running on: Linux lxplus789.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-02 17:32:47.896 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-02 17:32:47.897 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-02 17:32:47.897 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-02 17:32:47.898 UTC: 	 Error: crab_ElectronNtuple_2017_TagProbe/crab_Run201B is not a valid CRAB project directory.
+ERROR 2020-04-02 17:32:47.898 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 595, in validateOptions
+    raise ConfigurationException(msg)
+ConfigurationException: [91mError[0m: crab_ElectronNtuple_2017_TagProbe/crab_Run201B is not a valid CRAB project directory.
+DEBUG 2020-04-29 17:49:56.847 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 17:49:56.860 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 17:49:56.861 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-29 17:49:56.861 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 17:49:56.871 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+ERROR 2020-04-29 17:49:56.871 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+DEBUG 2020-04-29 17:50:20.028 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 17:50:20.041 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 17:50:20.041 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-29 17:50:20.042 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 17:50:20.042 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+ERROR 2020-04-29 17:50:20.043 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+DEBUG 2020-04-29 17:51:51.151 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 17:51:51.166 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 17:51:51.166 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-29 17:51:51.166 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 17:51:51.168 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+ERROR 2020-04-29 17:51:51.168 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+DEBUG 2020-04-29 17:55:30.370 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 17:55:30.383 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 17:55:30.384 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-29 17:55:30.384 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 17:55:30.407 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+ERROR 2020-04-29 17:55:30.407 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+DEBUG 2020-04-29 17:55:55.796 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 17:55:55.809 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 17:55:55.809 UTC: 	 Executing command: 'kill'
+DEBUG 2020-04-29 17:55:55.809 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 17:55:55.810 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+ERROR 2020-04-29 17:55:55.810 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+DEBUG 2020-04-29 17:56:06.896 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 17:56:06.908 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 17:56:06.909 UTC: 	 Executing command: 'kill'
+DEBUG 2020-04-29 17:56:06.909 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 17:56:06.910 UTC: 	 Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+ERROR 2020-04-29 17:56:06.910 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 599, in validateOptions
+    self.loadLocalCache()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 461, in loadLocalCache
+    raise ex
+CachefileNotFoundException: Cannot find .requestcache file in CRAB project directory /afs/cern.ch/work/s/sthakur/xRavindra/Tag_Probe/CMSSW_10_4_0/src/TagAndProbe_Trigger/NtupleProducer/test/crab_ElectronNtuple_2017_TagProbe_29April20
+DEBUG 2020-04-29 18:02:40.038 UTC: 	 Running on: Linux lxplus7123.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-04-29 18:02:40.052 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-04-29 18:02:40.052 UTC: 	 Executing command: 'status'
+DEBUG 2020-04-29 18:02:40.052 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+ERROR 2020-04-29 18:02:40.053 UTC: 	 Error: crab_ElectronNtuple_2017_TagProbe_29April20/ is not a valid CRAB project directory.
+ERROR 2020-04-29 18:02:40.053 UTC: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/bin/crab", line 145, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/status.py", line 40, in __init__
+    SubCommand.__init__(self, logger, cmdargs)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 277, in __init__
+    SubCommand.validateOptions(self)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.2001/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 595, in validateOptions
+    raise ConfigurationException(msg)
+ConfigurationException: [91mError[0m: crab_ElectronNtuple_2017_TagProbe_29April20/ is not a valid CRAB project directory.
+DEBUG 2020-05-05 08:42:32.908 UTC: 	 Running on: Linux lxplus7120.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 08:42:32.922 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 08:42:32.923 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 08:42:32.937 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 08:42:32.945 UTC: 	 Checking credentials
+DEBUG 2020-05-05 08:42:32.946 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 08:42:32.946 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 08:42:33.551 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43180
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 08:42:34.156 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43179
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 08:42:34.157 UTC: 	 Proxy lifetime 43180 secs is different from voms extension lifetime 43179 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 08:42:34.157 UTC: 	 Proxy valid for 11:59:39 hours
+DEBUG 2020-05-05 08:42:34.157 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 08:42:34.185 UTC: 	 Running on: Linux lxplus7120.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 08:42:34.199 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 08:42:34.199 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 08:42:34.206 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 08:42:34.214 UTC: 	 Checking credentials
+DEBUG 2020-05-05 08:42:34.215 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 08:42:34.215 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 08:42:34.819 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43179
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 08:42:35.425 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43178
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 08:42:35.425 UTC: 	 Proxy lifetime 43179 secs is different from voms extension lifetime 43178 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 08:42:35.425 UTC: 	 Proxy valid for 11:59:38 hours
+DEBUG 2020-05-05 08:42:35.426 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 11:49:13.487 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 11:49:13.508 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 11:49:13.508 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 11:49:13.527 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 11:49:13.538 UTC: 	 Checking credentials
+DEBUG 2020-05-05 11:49:13.538 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:13.538 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 11:49:14.345 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43111
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:15.058 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43110
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:15.058 UTC: 	 Proxy lifetime 43111 secs is different from voms extension lifetime 43110 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:15.058 UTC: 	 Proxy valid for 11:58:30 hours
+DEBUG 2020-05-05 11:49:15.059 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 11:49:15.123 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 11:49:15.142 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 11:49:15.142 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 11:49:15.151 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 11:49:15.160 UTC: 	 Checking credentials
+DEBUG 2020-05-05 11:49:15.160 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:15.160 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 11:49:15.881 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43110
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:16.593 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43109
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:16.593 UTC: 	 Proxy lifetime 43110 secs is different from voms extension lifetime 43109 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:16.593 UTC: 	 Proxy valid for 11:58:29 hours
+DEBUG 2020-05-05 11:49:16.594 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 11:49:16.619 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 11:49:16.636 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 11:49:16.637 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 11:49:16.648 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 11:49:16.658 UTC: 	 Checking credentials
+DEBUG 2020-05-05 11:49:16.658 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:16.658 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 11:49:17.366 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43108
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:18.179 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43107
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:18.179 UTC: 	 Proxy lifetime 43108 secs is different from voms extension lifetime 43107 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:18.179 UTC: 	 Proxy valid for 11:58:27 hours
+DEBUG 2020-05-05 11:49:18.180 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 11:49:18.203 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 11:49:18.225 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 11:49:18.226 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 11:49:18.235 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 11:49:18.243 UTC: 	 Checking credentials
+DEBUG 2020-05-05 11:49:18.244 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:18.244 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 11:49:18.969 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43107
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:19.687 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43106
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:19.687 UTC: 	 Proxy lifetime 43107 secs is different from voms extension lifetime 43106 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:19.687 UTC: 	 Proxy valid for 11:58:26 hours
+DEBUG 2020-05-05 11:49:19.688 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 11:49:19.711 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 11:49:19.726 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 11:49:19.727 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 11:49:19.737 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 11:49:19.746 UTC: 	 Checking credentials
+DEBUG 2020-05-05 11:49:19.746 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:19.746 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 11:49:20.553 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43105
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:21.259 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43104
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 11:49:21.259 UTC: 	 Proxy lifetime 43105 secs is different from voms extension lifetime 43104 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 11:49:21.259 UTC: 	 Proxy valid for 11:58:24 hours
+DEBUG 2020-05-05 11:49:21.260 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 12:02:21.586 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 12:02:21.609 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 12:02:21.610 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 12:02:21.634 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 12:02:21.643 UTC: 	 Checking credentials
+DEBUG 2020-05-05 12:02:21.643 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:21.643 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 12:02:22.460 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43030
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:23.167 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43029
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:23.167 UTC: 	 Proxy lifetime 43030 secs is different from voms extension lifetime 43029 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:23.167 UTC: 	 Proxy valid for 11:57:09 hours
+DEBUG 2020-05-05 12:02:23.168 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 12:02:23.193 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 12:02:23.208 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 12:02:23.209 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 12:02:23.216 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 12:02:23.224 UTC: 	 Checking credentials
+DEBUG 2020-05-05 12:02:23.224 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:23.224 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 12:02:23.828 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43029
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:24.433 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43028
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:24.434 UTC: 	 Proxy lifetime 43029 secs is different from voms extension lifetime 43028 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:24.434 UTC: 	 Proxy valid for 11:57:08 hours
+DEBUG 2020-05-05 12:02:24.434 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 12:02:24.454 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 12:02:24.469 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 12:02:24.470 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 12:02:24.478 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 12:02:24.485 UTC: 	 Checking credentials
+DEBUG 2020-05-05 12:02:24.486 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:24.486 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 12:02:25.090 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43027
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:25.698 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43027
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:25.698 UTC: 	 Proxy valid for 11:57:07 hours
+DEBUG 2020-05-05 12:02:25.699 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 12:02:25.722 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 12:02:25.737 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 12:02:25.738 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 12:02:25.746 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 12:02:25.753 UTC: 	 Checking credentials
+DEBUG 2020-05-05 12:02:25.754 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:25.754 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 12:02:26.359 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43026
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:26.964 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43026
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:26.964 UTC: 	 Proxy valid for 11:57:06 hours
+DEBUG 2020-05-05 12:02:26.965 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-05 12:02:26.985 UTC: 	 Running on: Linux lxplus7119.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-05 12:02:26.999 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-05 12:02:26.999 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-05 12:02:27.007 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-05 12:02:27.014 UTC: 	 Checking credentials
+DEBUG 2020-05-05 12:02:27.014 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:27.014 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-05 12:02:27.621 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43025
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:28.227 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43024
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-05 12:02:28.227 UTC: 	 Proxy lifetime 43025 secs is different from voms extension lifetime 43024 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-05 12:02:28.227 UTC: 	 Proxy valid for 11:57:04 hours
+DEBUG 2020-05-05 12:02:28.228 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-06 17:50:10.023 UTC: 	 Running on: Linux lxplus723.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 17:50:10.041 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 17:50:10.041 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-06 17:50:10.056 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-06 17:50:10.088 UTC: 	 Checking credentials
+DEBUG 2020-05-06 17:50:10.089 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:10.089 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-06 17:50:10.795 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43174
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:11.401 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43173
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:11.401 UTC: 	 Proxy lifetime 43174 secs is different from voms extension lifetime 43173 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:11.402 UTC: 	 Proxy valid for 11:59:33 hours
+DEBUG 2020-05-06 17:50:11.402 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-06 17:50:11.490 UTC: 	 Running on: Linux lxplus723.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 17:50:11.505 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 17:50:11.505 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-06 17:50:11.513 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-06 17:50:11.520 UTC: 	 Checking credentials
+DEBUG 2020-05-06 17:50:11.521 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:11.521 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-06 17:50:12.125 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43172
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:12.731 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43172
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:12.731 UTC: 	 Proxy valid for 11:59:32 hours
+DEBUG 2020-05-06 17:50:12.732 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-06 17:50:12.754 UTC: 	 Running on: Linux lxplus723.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 17:50:12.768 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 17:50:12.769 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-06 17:50:12.776 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-06 17:50:12.783 UTC: 	 Checking credentials
+DEBUG 2020-05-06 17:50:12.783 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:12.783 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-06 17:50:13.389 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43171
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:13.994 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43171
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:13.995 UTC: 	 Proxy valid for 11:59:31 hours
+DEBUG 2020-05-06 17:50:13.996 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-06 17:50:14.017 UTC: 	 Running on: Linux lxplus723.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 17:50:14.032 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 17:50:14.032 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-06 17:50:14.040 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-06 17:50:14.047 UTC: 	 Checking credentials
+DEBUG 2020-05-06 17:50:14.047 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:14.047 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-06 17:50:14.652 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43170
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:15.258 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43169
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:15.258 UTC: 	 Proxy lifetime 43170 secs is different from voms extension lifetime 43169 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:15.258 UTC: 	 Proxy valid for 11:59:29 hours
+DEBUG 2020-05-06 17:50:15.259 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2020-05-06 17:50:15.281 UTC: 	 Running on: Linux lxplus723.cern.ch 3.10.0-1062.18.1.el7.x86_64 #1 SMP Tue Mar 17 23:49:17 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux - CentOS Linux 7 (Core)
+DEBUG 2020-05-06 17:50:15.296 UTC: 	 OpenSSl version: OpenSSL 1.0.2k-fips  26 Jan 2017 (Library: OpenSSL 1.0.2d-fips 9 Jul 2015)
+DEBUG 2020-05-06 17:50:15.297 UTC: 	 Executing command: 'submit'
+DEBUG 2020-05-06 17:50:15.304 UTC: 	 Found CRAB cache file /afs/cern.ch/user/s/sthakur/.crab3
+DEBUG 2020-05-06 17:50:15.311 UTC: 	 Checking credentials
+DEBUG 2020-05-06 17:50:15.311 UTC: 	 Found proxy file /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:15.311 UTC: 	 Getting proxy life time left
+DEBUG 2020-05-06 17:50:15.916 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -timeleft
+ output : 43169
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:16.521 UTC: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u77410 -actimeleft
+ output : 43168
+
+ error: 
+ retcode : 0
+DEBUG 2020-05-06 17:50:16.521 UTC: 	 Proxy lifetime 43169 secs is different from voms extension lifetime 43168 secs for proxy: /tmp/x509up_u77410
+DEBUG 2020-05-06 17:50:16.521 UTC: 	 Proxy valid for 11:59:28 hours
+DEBUG 2020-05-06 17:50:16.522 UTC: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
